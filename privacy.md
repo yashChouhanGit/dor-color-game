@@ -1,3 +1,8 @@
+---
+layout: default
+description: Official Privacy Documentation
+---
+
 # Privacy Policy
 
 This game was built as a Free app. This service is provided at no cost and is intended for use as is.
