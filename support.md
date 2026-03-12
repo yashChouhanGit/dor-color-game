@@ -1,3 +1,8 @@
+---
+layout: default
+description: Official Support Documentation
+---
+
 # Support
 
 Thank you for playing my game!
