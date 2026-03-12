@@ -1,0 +1,6 @@
+title: Dot Color Game
+description: Official support and privacy documentation.
+theme: jekyll-theme-cayman
+
+# This "hacks" the URL to make it do nothing when clicked
+url: "javascript:void(0)"
